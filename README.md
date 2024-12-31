@@ -11,10 +11,15 @@ Includes cleanup routines for resource deallocation
 
 # Example Output:
 [+] Got a handle to the process: 1234
+
 [+] Allocated buffer to memory at: 0x0000021234567000
+
 [+] Wrote to the memory
+
 [+] Changed allocated buffer protection to PAGE_EXECUTE_READ
+
 [+] Thread Created! Routine Started.
+
 [+] Thread Finished! .. Happy Hacking!!
 
 # Disclaimer
